@@ -1,0 +1,5 @@
+# LangChain 核心 + OpenAI 兼容接入 + 配置读取 + 结构化输出
+langchain>=1.0
+langchain-openai>=1.0
+python-dotenv>=1.0
+pydantic>=2.0
